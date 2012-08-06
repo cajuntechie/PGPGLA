@@ -1,0 +1,50 @@
+# PGPNET Membership List Revised 31Jul2012
+# 41 keys
+
+0x9CC6C4F03F370F7E Alf Packer <alfpacker@gmail.com>						alfpacker
+0xD3D84BBE510ADAA2 Anthony Papillion (Public Use Key) <anthony@papillion.me>			techie74354
+0x80E9FF84BA649960 Barry Smith (2008-01-21 2048 no expire) <bnsmith001@gmail.com>		bnsmith001
+0x321E4E2373590E5D Ben McGinnes <ben@adversary.org>						benmcginnes
+0xC8B9B8C9DAC006F7 Carl T. Hamlin <hamlin.carlisle@gmail.com>					signaldistortion
+0xE045FE37AD62C09F Christian Riechers <chriechers@yahoo.com>					chriechers
+0xB511FEE3DD86C24F Crypto <crypto@jpunix.net>							crypto.secure
+0x5CC2441B85630E3D David Mitchel (TSTG.org) <mitzip@davidmitchel.com>				ford2004X4
+0x206C38805E0E5C42 David Schraeder <davids@russellhospital.org>					darkme2002
+0x013680AC643DD559 David Vallier (TANSTAAFL) <timemaster@sillydog.org>
+0x897CBEA62731B7D2 Douglas hinton <hinton@post1.tele.dk>					fynen
+0xE0E9DD26F1D99755 drpartha (partha's gpg key pair sept. 2010) <drpartha@gmail.com>		p1partha
+0x82121A454319410E Faramir.cl (It's a nickname, of course) <faramir.cl@gmail.com>		faramir_cl
+0x41B0346260D02095 Henrik O A Barkman <barkman@gmail.com>					barkmanstein
+0xA3FA09C5745E5122 Ilsa Bartlett <ilsa.bartlett@gmail.com>					ilsabartlett
+0x83C6A66F46914B32 Jeff Maxwell <vohnmaxwell@bellsouth.net>					vohnmaxwell@bellsouth.net
+0xCE462071331D023F Jeffrey R. Allen								fledermaus47
+0xA9C86C8DD3AE8D3A Johan van Selst								johans@stack.nl
+0xF5C2503FF8E0F5AA Larry Brower (Mailing Lists Account) <larry-lists@maxqe.com>			larry_grunt
+0x5D57C386564C4A09 Larry Brower <lbrower@hostgator.com>						larry_grunt
+0xC110784A111831BE Mark Oakley <jmoakley@yahoo.co.uk>						jmoakley
+0xA8A90B8EAD0C6E69 MFPA <a@b.c>									mfpa_2012
+0x4DB53CFE82A46728 Mika Suomalainen								mkaysi@ymail.com
+0xB6ABE088B62E904D Mike Green									seaofvapours2000/mikegreenimages
+0xF729AFD981802954 Morten Gulbrandsen (Java programmer) <lordbyte7@aim.com>			f1000mhz
+0xBB265B93A9D9A1C9 Nick K.D Chaleunphone <kamododragon@gmail.com>				n.chaleunphone
+0xF4E1C6A18013408D Paul J. Kapaldo								pjkapaldo
+0x797DFD70917B1BF0 Pauline Roberts <cryptolists@gmail.com>					capyboppy2002
+0xE6AF168BE21A3DED Peter Robinson <peter.robinson@tiscali.co.uk>				Henry_Robinson
+0xC021F18A9A135171 Phil Lejman <phil.lejman@gmail.com>						phil_lejman
+0xEECF3869DB23F919 Robert  Coleman (GMail key 2048) <greenmanyyz@gmail.com>			greenmanyyz
+0x43B55540AD3B709B rookcifer <rookcifer@gmail.com>						tasthius
+0xDD61DC5E34020CF2 Sean Stickland <sean@stick.org.za>						st1cky_flickr
+0x1EEAF1A12C479657 Serge A. Ribalchenko (mail) <serge.fisher@gmail.com>				analias35		
+0x7D618792A3E069DE Shahrzaad M Parekh								smp1980
+0x9B6B50F3CBF0F0D3 Siegmund <siegmund@tormail.org>						siegmund@tormail.org 
+0xF010498E5AECF89B sophie teecher (pgpnet) <sophieteecher@yahoo.com>				sophieteecher
+0xD8FD48F98799F47F Steve <alarmmanuk@yahoo.co.uk>						alarmmanuk
+0x0AB32D6916E2E31D Troy Weinzetl (Mobile)							securebabyonfarms
+0x0B6ED1FFDD271AEC Troy Weinzetl (P.S.K. III)							securebabyonfarms
+0x186299A93754EF48 Walshingham2000 <walshingham2000@yahoo.com>					walshingham2000
+
+
+# --- group line, for those who use it in 'gpg.conf'. Revise the group name as needed. ---
+#       (In some cases the enclosing < and > characters must be removed from the name)
+group <pgpnet@yahoogroups.com>=0x9CC6C4F03F370F7E 0xD3D84BBE510ADAA2 0x80E9FF84BA649960 0x321E4E2373590E5D 0xC8B9B8C9DAC006F7 0xE045FE37AD62C09F 0xB511FEE3DD86C24F 0x5CC2441B85630E3D 0x206C38805E0E5C42 0x013680AC643DD559 0x897CBEA62731B7D2 0xE0E9DD26F1D99755 0x82121A454319410E 0x41B0346260D02095 0xA3FA09C5745E5122 0x83C6A66F46914B32 0xCE462071331D023F 0xA9C86C8DD3AE8D3A 0xF5C2503FF8E0F5AA 0x5D57C386564C4A09 0xC110784A111831BE 0xA8A90B8EAD0C6E69 0x4DB53CFE82A46728 0xB6ABE088B62E904D 0xF729AFD981802954 0xBB265B93A9D9A1C9 0xF4E1C6A18013408D 0x797DFD70917B1BF0 0xE6AF168BE21A3DED 0xC021F18A9A135171 0xEECF3869DB23F919 0x43B55540AD3B709B 0xDD61DC5E34020CF2 0x1EEAF1A12C479657 0x7D618792A3E069DE 0x9B6B50F3CBF0F0D3 0xF010498E5AECF89B 0xD8FD48F98799F47F 0x0AB32D6916E2E31D 0x0B6ED1FFDD271AEC 0x186299A93754EF48
+
